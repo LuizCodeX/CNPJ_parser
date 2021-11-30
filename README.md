@@ -20,3 +20,8 @@ Simply open the index.html file in your browser. Click on the html file with the
 ## How to use
 
 Insert your input in the box at the center of the HTML page and it'll print YES(very large and noticeable on your screen) if your input is in a valid CNPJ format or NO if it isn't.
+
+Sample Screenshot:
+
+![image](https://user-images.githubusercontent.com/95190477/143982493-39cdddc7-5980-4b49-8b80-f3cda4a8bbb5.png)
+
